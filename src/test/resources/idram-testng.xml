@@ -1,0 +1,26 @@
+    
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >
+
+<suite name="example suite 1" verbose="1" >
+<test name="Regression suite 1" >
+
+<parameter name="browser" value="chrome"></parameter>
+
+<parameter name="telephon" value="93359083"></parameter>
+<classes>
+
+ <class name="am.itu.qa.headerlist.IdramHeaderListTest"/> 
+     <!--  <class name="am.itu.qa.search.IdramSearch"/> -->   
+    <!--    <class name="am.itu.qa.IdramLogin.IdramLoginTest"/> -->
+        <!-- <class name="am.itu.qa.lang.LangChang"/> -->
+      <!--    <class name="am.itu.qa.topup.TopUp"/>-->
+                     <!--    <class name="am.itu.qa.logo.LogoTest"/>-->
+     <!--   <class name="am.itu.qa.pay.IdramPayTest"/>-->
+        
+           
+
+
+
+</classes>
+</test>
+</suite>
