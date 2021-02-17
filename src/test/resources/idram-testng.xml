@@ -16,7 +16,8 @@
       <!--    <class name="am.itu.qa.topup.TopUp"/>-->
                      <!--    <class name="am.itu.qa.logo.LogoTest"/>-->
      <!--   <class name="am.itu.qa.pay.IdramPayTest"/>-->
-         <class name="am.itu.qa.newpartner.IdramNewPartner"/>
+      <!--     <class name="am.itu.qa.newpartner.IdramNewPartner"/>-->
+          <class name="am.itu.qa.transfer.IdramTransfer"/>
         
            
 
